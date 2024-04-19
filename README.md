@@ -3,6 +3,8 @@ I participated in the HEXA OSINT CTF v3 with the team "Blaireaux des Légendes".
 
 I used [OSINTRACKER](https://www.osintracker.com) to map out and to keep track of all entities that were found, and also to help remember the entities from v1 and v2.
 
+You can download the Graph by clicking [here](https://github.com/C3n7ral051nt4g3ncy/HEXA-OSINTRACKER/blob/master/HEXA_GRAPH.png)
+
 <br>
 
 <br>
