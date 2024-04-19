@@ -1,4 +1,4 @@
-# HEXAOSINT CTF - OSINTRACKER
+# HEXA OSINT CTF - OSINTRACKER
 I participated in the HEXA OSINT CTF v3 with the team ```Blaireaux des Légendes```.
 
 I used [OSINTRACKER](https://www.osintracker.com) to map out and to keep track of all entities that were found, and also to help remember the entities from v1 and v2.
