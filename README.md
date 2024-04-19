@@ -47,7 +47,7 @@ The Hexa team also made the challenges for the [TRACS CTF](https://tracs.viarezo
         </a>
     <td align="center">
         <a href="https://www.osintracker.com">
-            <img src="https://github.com/C3n7ral051nt4g3ncy/HEXA-OSINTRACKER/assets/104733166/4922d36e-8843-48aa-9472-7cd9fbd020fc" width="99;" alt="Osintracker"/>
+            <img src="https://github.com/C3n7ral051nt4g3ncy/HEXA-OSINTRACKER/assets/104733166/21a63f8d-2a1e-405f-8340-71e3906f6b7f" width="99;" alt="Osintracker"/>
             <br />
             <sub><b>Osintracker</b></sub>
         </a>
